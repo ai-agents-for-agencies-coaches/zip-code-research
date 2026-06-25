@@ -1,0 +1,11 @@
+{
+  "project": "roofer-ron-gulf-coast-newsbreak",
+  "states": ["FL"],
+  "markets": [
+    {"name": "Tampa",      "lat": 27.9506, "lon": -82.4572, "radius_mi": 50},
+    {"name": "Sarasota",   "lat": 27.3364, "lon": -82.5307, "radius_mi": 50},
+    {"name": "Fort Myers", "lat": 26.6406, "lon": -81.8723, "radius_mi": 40}
+  ],
+  "leniency": 0.10,
+  "holds": ["33566"]
+}

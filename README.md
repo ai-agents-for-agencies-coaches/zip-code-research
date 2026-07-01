@@ -206,3 +206,12 @@ Built for the **[AI Agents for Agencies & Coaches](https://github.com/ai-agents-
 Data © US Census Bureau · ZIP boundary shapes © [OpenDataDE](https://github.com/OpenDataDE/State-zip-code-GeoJSON)
 
 </div>
+
+---
+
+## Free training & community
+
+This is one of several **free** skills from the AI for Agencies & SMBs community.
+
+- 📺 **Free build-alongs & tutorials on YouTube:** https://www.youtube.com/@geopopos
+- 🚀 **Full AI marketing courses, templates & live support** inside the Skool community: https://www.skool.com/ai-for-agencies-smbs-1573
